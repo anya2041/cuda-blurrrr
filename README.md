@@ -88,7 +88,7 @@ nvcc blur_detector.cu -o blur_detector.exe -std=c++14 ^
 ## Notes
 1. The threshold to determine if an image is blurry is set inside the code (default: 100.0). You can modify it in blur_detector.cu.
 
-2. The program supports dozens or hundreds of .jpg images — all will be processed and added to the CSV.
+2. The program supports dozens or hundreds of .jpg images — all will be processed and added to the CSV. Feel Free to add more images and test it out, I made and tested it on 25 images (mixed image files i.e with blurry and non-blurry images to check my code output).
 
 3. If an image can't be read, a warning is shown and it is skipped.
 
