@@ -119,7 +119,7 @@ nvcc blur_detector.cu -o blur_detector.exe -std=c++14 ^
 
 ### Project Demo Video
 
-[Click here to watch the demo](https://your-video-link)
+[Click here to watch the walkthrough](https://youtu.be/mbDZcUwMqLs)
 
 
 ---
