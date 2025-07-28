@@ -102,6 +102,8 @@ nvcc blur_detector.cu -o blur_detector.exe -std=c++14 ^
 ### Output (For Reference)
 ![Output CSV Sample](proof_of_execution/Output_Confirmation_csv.png)
 *Pls read the content of above image to confirm results.*
+
+
 ---
 
 ## Lessons Learned
