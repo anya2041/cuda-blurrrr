@@ -94,6 +94,16 @@ nvcc blur_detector.cu -o blur_detector.exe -std=c++14 ^
 
 ---
 
+### Input (For Reference)
+![Input Sample One](proof_of_execution/Input_img1.jpg)
+*This is a non-blurry, SHARP image.*
+![Input Sample Two](proof_of_execution/Input_img2.jpg)
+*This is a very blurry image.*
+### Output (For Reference)
+![Output CSV Sample](proof_of_execution/Output_Confirmation_csv.png)
+*Pls read the content of above image to confirm results.*
+---
+
 ## Lessons Learned
 1. Integrating OpenCV with CUDA on Windows requires precise path and linkage setup.
 
